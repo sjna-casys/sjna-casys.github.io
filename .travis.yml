@@ -6,6 +6,10 @@ rvm:
 # the `install` step will run `bundle install` by default.
 script: ./bin/cibuild
 
+branches: 
+  only:
+    - source 
+
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
