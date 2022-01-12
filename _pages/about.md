@@ -7,6 +7,10 @@ subtitle: <a href='https://cs.kaist.ac.kr/'>School of Computing</a>. KAIST.
 profile:
   align: right
   image: profile.jpeg
+  address: >
+   Email <a href="mailto:sjna@casys.kaist.ac.kr"><i class="fas fa-envelope""></i></a><br>
+   Curriculum Vitae <a href="assets/pdf/YJ_CV.pdf"><i class="ai ai-cv"></i></a>
+
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
