@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Menus
 nav: true
 dropdown: true
 children: 
