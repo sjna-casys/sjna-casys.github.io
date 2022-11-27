@@ -6,7 +6,7 @@ subtitle: <a href='https://cs.kaist.ac.kr/'>School of Computing</a>. KAIST.
 
 profile:
   align: right
-  image: profile.jpeg
+  image: Profile.jpg
   address: >
    Email <a href="mailto:sjna@casys.kaist.ac.kr"><i class="fas fa-envelope""></i></a><br>
    Curriculum Vitae <a href="assets/pdf/sjna_cv.pdf"><i class="ai ai-cv"></i></a>
