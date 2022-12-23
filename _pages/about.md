@@ -19,7 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently 	a PhD student in the School of Computing at [Korea Advanced Institute of Science and Technology (KAIST)](https://kaist.ac.kr) advised by Prof. [Jaehyuk Huh](http://calab.kaist.ac.kr:8080/~jhuh). Prior to KAIST, I received my bachelor's degree in Computer Science Engeenering <strong>SUMMA CUM LAUDE</strong> at [Sogang University](https://sogang.ac.kr).
 
-My research interests in computer architecture and security include trusted execution environment support for accelerators (GPUs, NPUs), Multi-GPU architectures. 
+My research interests lie in GPU architecture, trusted computing, heterogeneous systems, distributed computing, and systems for machine learning. My current research focuses on building secure architecture 
+to provide the trusted execution environment(TEE) on accelerators such as GPUs, and NPUs with low-performance overhead.
 
 
 
