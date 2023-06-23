@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.kaist.ac.kr/'>School of Computing</a>. KAIST.
+subtitle: <a href='https://www.cc.gatech.edu/'>College of Computing</a>. Georgia Tech.
 
 profile:
   align: right
