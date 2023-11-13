@@ -1,12 +1,12 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://www.cc.gatech.edu/'>College of Computing</a>. Georgia Tech.
 
 profile:
   align: right
-  image: Profile.jpg
+  image: new_profile.jpg
   address: >
    Email <a href="mailto:sjna@casys.kaist.ac.kr"><i class="fas fa-envelope""></i></a><br>
    Curriculum Vitae <a href="assets/pdf/sjna_cv.pdf"><i class="ai ai-cv"></i></a>
