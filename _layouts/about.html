@@ -40,6 +40,25 @@ layout: default
             <!-- Selected papers -->
             {%- include selected_papers.html %}
           {%- endif %}
+
+          {% if page.awards %}
+            {% include awards.html %}
+          {% endif %}
+            
+          {% if page.talks %}
+            {% include talks.html %}
+          {% endif %}
+            
+          {% if page.service %}
+            {% include service.html %}
+          {% endif %}
+
+
+          {% if page.patent %}
+            {% include patent.html %}
+          {% endif %}
+
+
           {%- if page.social %}
           <!-- Social -->
           <div class="social">
