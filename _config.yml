@@ -106,9 +106,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
-  honors:
+  awards:
     output: true
-   # permalink: /honors/:path/
+   permalink: /awards/:path/
 
 news_limit: 100
 
