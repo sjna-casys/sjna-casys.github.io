@@ -12,7 +12,7 @@ profile:
    Curriculum Vitae <a href="assets/pdf/sjna_cv.pdf"><i class="ai ai-cv"></i></a>
 
 
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 # awards: true
 # patent: true
