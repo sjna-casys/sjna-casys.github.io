@@ -2,31 +2,33 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Seonjin Na 
+    # - name: Date of Birth
+    #   value: 2th March 1879
+    - name: Affiliation
+      value: Georgia Institute of Technology (Georgia Tech)
+    # - name: Languages
+    #   value: English, German
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor: Jaehyuk Huh
+        # - Description 2.
+        # - title: Description 3.
+        #   contents:
+        #     - Sub-description 1.
+        #     - Sub-description 2.
+    - title: MS 
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor: Jaehyuk Huh 
+        # - Description 2.
 
 - title: Experience
   type: time_table
