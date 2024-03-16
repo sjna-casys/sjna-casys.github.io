@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cc.gatech.edu/'>College of Computing</a>. Georgia
 
 profile:
   align: right
-  image: new_profile.jpg
+  image: sjna_paris.jpg
   address: >
    Email <a href="mailto:sjna@casys.kaist.ac.kr"><i class="fas fa-envelope""></i></a><br>
    Curriculum Vitae <a href="assets/pdf/sjna_cv.pdf"><i class="ai ai-cv"></i></a>
