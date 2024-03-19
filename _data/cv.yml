@@ -46,7 +46,6 @@
 - title: Working Experiences
   # type: time_table
   type: nested_list 
-
   contents:
     - title: Postdoctoral Researcher 
       items:
