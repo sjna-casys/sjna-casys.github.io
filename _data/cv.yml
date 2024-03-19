@@ -33,10 +33,10 @@
       institution: Sogang University 
       year: 2016
       description:
-        - "B.S in Computer Science and Engineering (**Summa Cum Laude**)"
+        - "B.S in Computer Science and Engineering (Summa Cum Laude)"
         # - Description 2.
 
-- title: Experience
+- title: Working Experiences
   type: time_table
   contents:
     - title: Professor of Theoretical Physics
@@ -69,12 +69,12 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -87,14 +87,14 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Academic Services
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Reviewer 
       items:
         - Description 1.
         - Description 2.
-    - title: Topic 2.
+    - title:  Committee
       items:
         - Description 1.
         - Description 2.
