@@ -19,7 +19,8 @@
       # institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2023
       description:
-        - "Ph.D. in Computer Science (Advisor: Jaehyuk Huh)"
+        - "Ph.D. in Computer Science"
+        - "Advisor: Jaehyuk Huh"
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -29,13 +30,15 @@
       # institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2018
       description:
-        - "M.S in Computer Science (Advisor: Jaehyuk Huh)"
+        - "M.S in Computer Science"
+        - "Advisor: Jaehyuk Huh"
         # - Description 2.
     - title: Sogang University
       # institution: Sogang University 
       year: 2016
       description:
-        - "B.S in Computer Science and Engineering (Summa Cum Laude)"
+        - "B.S in Computer Science and Engineering"
+        - "Summa Cum Laude"
         # - Description 2.
 
 - title: Working Experiences
