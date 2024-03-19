@@ -49,9 +49,11 @@
 
   contents:
     - title: Postdoctoral Researcher 
-      institution: Georgia Institute of Technology 
+      items:
+      # institution: Georgia Institute of Technology 
       # year: 2023 
-      description:
+      # description:
+        - "Georgia Instittue of Technology"
         - "Supervisor: Hyesoon Kim"
         - "2023.6 - Present"
       #   - title: Description 3.
@@ -59,9 +61,10 @@
       #       - Sub-description 1.
       #       - Sub-description 2.
     - title: Research Intern
-      institution: Microsoft Research, Beijing, China
+      # institution: Microsoft Research, Beijing, China
       # year: 2019.3 - 2019.6
-      description:
+      # description:
+      items:
         - "Mentor: Lintao Zhang, Yunxin Liu"
         - "2019.03 - 2019.06"
         # - Description 2.
