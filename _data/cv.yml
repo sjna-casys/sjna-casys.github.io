@@ -123,12 +123,12 @@
   contents:
     - title: Reviewer 
       items:
-        - Description 1.
-        - Description 2.
+        - IEEE Transactions on Dependable and Secure Computing 2023.
+        - IEEE Computer Architecture Letter 2023.
     - title:  Committee
       items:
-        - Description 1.
-        - Description 2.
+        - "Artifact Evaluation Committee: International Symposium on Computer Architecture (ISCA) 2024"
+        - "Web Chair: IEEE Computer Society TCuARCH"
 
 # - title: Other Interests
 #   type: list
