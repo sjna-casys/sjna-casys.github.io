@@ -13,21 +13,27 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
+    - title: Ph.D.
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2023
       description:
-        - Advisor\: Jaehyuk Huh
+        - "Ph.D. in Computer Science (Advisor: Jaehyuk Huh)"
         # - Description 2.
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
         #     - Sub-description 2.
-    - title: MS 
+    - title: M.S. 
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2018
       description:
-        - Advisor\: Jaehyuk Huh 
+        - "M.S in Computer Science (Advisor: Jaehyuk Huh)"
+        # - Description 2.
+    - title: B.S.
+      institution: Sogang University 
+      year: 2016
+      description:
+        - "B.S in Computer Science and Engineering (Summa Cum Laude)"
         # - Description 2.
 
 - title: Experience
