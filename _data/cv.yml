@@ -1,4 +1,4 @@
-- title: General Information
+- title: Current Information
   type: map
   contents:
     - name: Full Name
@@ -7,6 +7,8 @@
     #   value: 2th March 1879
     - name: Affiliation
       value: Georgia Institute of Technology (Georgia Tech)
+    - name: Position
+      value: Postdoctoral Researcher
     # - name: Languages
     #   value: English, German
 
