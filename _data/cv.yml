@@ -43,7 +43,7 @@
 
 - title: Working Experiences
   # type: time_table
-  type: Nested list 
+  type: nested_list 
 
   contents:
     - title: Postdoctoral Researcher 
