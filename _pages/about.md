@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.cc.gatech.edu/'>College of Computing</a>. Georgia Tech.
+subtitle: <a href='https://www.scs.gatech.edu/'>School of Computer Science</a>. Georgia Tech.
 
 profile:
   align: right
