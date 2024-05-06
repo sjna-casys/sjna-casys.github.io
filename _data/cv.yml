@@ -132,15 +132,15 @@
         - IEEE Computer Architecture Letter 2023.
     - title: Technical Program Committee 
       items:
-        - "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024"
+        - International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024
     - title: Artifact Evaluation Committee
       items:
-        - USENIX Annual Technical Conference (ATC) 2024"
-        - USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2024"
-        - International Symposium on Computer Architecture (ISCA) 2024"
+        - USENIX Annual Technical Conference (ATC) 2024
+        - USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2024
+        - International Symposium on Computer Architecture (ISCA) 2024
     - title: Web Chair
       items:
-        - "IEEE Computer Society TCuARCH"
+        - IEEE Computer Society TCuARCH
 
 # - title: Other Interests
 #   type: list
