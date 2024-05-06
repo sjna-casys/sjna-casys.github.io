@@ -130,13 +130,17 @@
       items:
         - IEEE Transactions on Dependable and Secure Computing 2023.
         - IEEE Computer Architecture Letter 2023.
-    - title:  Committee
+    - title: Technical Program Committee 
       items:
-        - "Artifact Evaluation Committee: USENIX Annual Technical Conference (ATC) 2024"
-        - "Artifact Evaluation Committee: USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2024"
-        - "Technical Program Committee: International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024"
-        - "Artifact Evaluation Committee: International Symposium on Computer Architecture (ISCA) 2024"
-        - "Web Chair: IEEE Computer Society TCuARCH"
+        - "International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024"
+    - title: Artifact Evaluation Committee
+      items:
+        - USENIX Annual Technical Conference (ATC) 2024"
+        - USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2024"
+        - International Symposium on Computer Architecture (ISCA) 2024"
+    - title: Web Chair
+      items:
+        - "IEEE Computer Society TCuARCH"
 
 # - title: Other Interests
 #   type: list
