@@ -5,6 +5,6 @@ inline: true
 related_posts: false
 ---
 
-Our paper <strong>Common Counters</strong> has been accepted at <strong>HPCA-2021</strong>!
+Our paper <strong>Common Counters</strong> has been accepted at <strong>HPCA-2021</strong>.
 
 
