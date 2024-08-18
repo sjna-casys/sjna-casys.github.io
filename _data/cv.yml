@@ -128,10 +128,11 @@
   contents:
     - title: Reviewer 
       items:
+        - ACM Transactions on Computer Systems (TOCS) 2024
         - ACM Transactions on Architecture and Code Optimization (TACO) 2024
         - International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024
-        - IEEE Transactions on Dependable and Secure Computing 2023.
-        - IEEE Computer Architecture Letter 2023.
+        - IEEE Transactions on Dependable and Secure Computing (TDSC) 2023.
+        - IEEE Computer Architecture Letter (CAL) 2023.
     - title: Technical Program Committee 
       items:
         - International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024
