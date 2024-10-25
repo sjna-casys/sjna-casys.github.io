@@ -25,4 +25,6 @@ My research interests lie in GPU architecture, trusted computing, heterogeneous 
 Currently, I am actively engaged in extending my research field to address various challenges in the multi-GPU architecture, hardware security, and accelerating large language models (LLMs).
 
 
-**I am currently looking for full-time job opportunities in industry.**
+<!-- **I am currently looking for full-time job opportunities in industry.** -->
+
+<p style="color: #0076df;"><strong>I am currently looking for full-time job opportunities in industry.</strong></p>
