@@ -24,7 +24,6 @@ I am currently 	a Postdoctoral Fellow in [HPArch Group](https://sites.gatech.edu
 My research interests lie in GPU architecture, trusted computing, heterogeneous systems, distributed computing, and systems for machine learning. During my Ph.D. studies, I focused on building secure architecture to provide a trusted execution environment(TEE) on accelerators such as GPUs, and NPUs with low-performance overhead.
 Currently, I am actively engaged in extending my research field to address various challenges in the multi-GPU architecture, hardware security, and accelerating large language models (LLMs).
 
+Research Interest (Keyword): GPU/NPU Architecture, Secure Architecture for GPU/NPU, Systems for Machine Learning.
 
-<!-- **I am currently looking for full-time job opportunities in industry.** -->
-
-<p style="color: #0076df;"><strong>I am currently looking for full-time job opportunities in industry.</strong></p>
+> <p style="color: #0076df;"><strong>I am currently looking for full-time job opportunities in industry.</strong></p>
