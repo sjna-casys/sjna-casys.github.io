@@ -20,12 +20,23 @@ layout: default
               path=profile_image_path 
               class="img-fluid z-dept-1 rounded" -%}
             {% endif -%}
-            <div class="social">
+
+             <!-- Social icons -->
+             {%- if page.social %}
+             <div class="social">
+               <div class="contact-icons">
+                 {% include social.html %}
+               </div>
+             </div>
+             {%- endif %}
+
+
+            <!-- <div class="social">
               <div class="contact-icons">
                 {% include social.html %}
               </div>
               <div class="contact-note">{{ site.contact_note }}</div>
-            </div>
+            </div> -->
 
             {%- if page.profile.address %}
             <div class="address">
