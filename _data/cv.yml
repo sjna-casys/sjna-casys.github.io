@@ -128,6 +128,7 @@
   contents:
     - title: Reviewer 
       items:
+        - General Purpose Processing on Graphics Processing Units (GPGPU) 2025
         - IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2025
         - ACM Transactions on Computer Systems (TOCS) 2024
         - ACM Transactions on Architecture and Code Optimization (TACO) 2024
@@ -136,6 +137,7 @@
         - IEEE Computer Architecture Letter (CAL) 2023.
     - title: Technical Program Committee 
       items:
+        - General Purpose Processing on Graphics Processing Units (GPGPU) 2025
         - IEEE International Parallel & Distributed Processing Symposium (IPDPS) 2025
         - International Conference for High Performance Computing, Networking, Storage, and Analysis (SC) 2024
     - title: Travel Grant Chair
